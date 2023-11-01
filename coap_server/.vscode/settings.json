@@ -1,0 +1,24 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "ostream": "c",
+    "xlocale": "c",
+    "array": "c",
+    "vector": "c",
+    "xstring": "c",
+    "xutility": "c",
+    "format": "c",
+    "initializer_list": "c",
+    "list": "c",
+    "random": "c",
+    "regex": "c",
+    "type_traits": "c",
+    "xhash": "c",
+    "xtree": "c",
+    "sstream": "c",
+    "chrono": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM9"
+}
